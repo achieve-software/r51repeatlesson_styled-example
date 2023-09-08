@@ -9,8 +9,8 @@ const Nav = () => {
       </div>
 
       <div>
-        <Button color="#AF3A53">Apply Courses</Button>
-        <Button bg="#AF3A53">Talk To Adviser</Button>
+        <Button color="#AF3A53">Ürün Kataloğu</Button>
+        <Button bg="#AF3A53">Bize Ulaşın</Button>
       </div>
     </NavStyled>
   )

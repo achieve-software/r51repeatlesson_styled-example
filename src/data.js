@@ -1,20 +1,20 @@
 const content = [
   {
     id: 1,
-    title: "Our Courses",
-    body: "Whether you are starting now or a professional on IT, we help to change your career. Our process is designed to lead each and every student to a successful professional career in the emerging global marketplace. We offer programs that enable you to level up.",
+    title: "Büyükbaş Kilit Sistemleri",
+    body: " Kilitleme sistemleri, hayvanların güvenli bir şekilde kontrol altında tutulmasını sağlar. Bu, veteriner muayeneleri, sağlık kontrolleri, aşılamalar, yemleme işlemleri ve diğer işlemler için hayvanın sınırlı hareket serbestisi ile çalışmayı kolaylaştırır. Kilitleme sistemleri, çalışanların güvenliğini sağlar. Hayvanların kontrolsüzce hareket etmesini engelleyerek, çalışanların hayvanlara yaklaşırken veya işlem yaparken risk altında olmasını azaltır.Kilitleme sistemleri, hayvanların rahatlığını ve refahını artırır. Hayvanların sağlıklı ve düzenli bir şekilde beslenmesini, gerektiğinde veteriner müdahalesini ve diğer bakım işlemlerini sağlar. Ayrıca, hayvanların birbirleriyle rekabet etmelerini önler ve karmaşayı azaltır.",
     image: "courses.jpg",
   },
   {
     id: 2,
-    title: "Learning-by-doing",
-    body: "You will receive one-to-one (1:1) attention in our mentor class. You can reach out to experts and get your questions answered 24/7. We help by giving you the shortcuts and coaching tips you need to get job-ready faster than any other IT Bootcamp.",
+    title: "Balya olukları",
+    body: "Balyalı oluklar, yem dağıtımını otomatikleştirir ve düzenli bir şekilde yapar. Yem balyaları, mekanizma yardımıyla kontrollü bir şekilde ilerler ve hayvanların yemlerine kolaylıkla erişmelerini sağlar. Bu, hayvanların beslenme düzenini ve yem alımını düzenlemek için etkili bir yöntemdir.",
     image: "learning.jpg",
   },
   {
     id: 3,
-    title: "Meet Our Alumni",
-    body: "e’ve upskilled over 3,000 students and graduates from around the world. They’re successfully working in the IT industry and part of our alumni network. Meet our alumni online and hear their success stories. Learn how you can become a member of the Clarusway family and get the career you’ve always dreamed of – it’s your turn to shine!",
+    title: "Küçükbaş Kilitleme Sistemleri",
+    body: "Küçükbaş kilitleme sistemleri, küçükbaş hayvanların (koyun, keçi vb.) geçici olarak sabitlenmesi veya kısıtlanması için kullanılan bir tür mekanizmadır. Bu sistemler, hayvanların güvenli bir şekilde tutulmasını, hareketlerinin kontrol altında olmasını ve işlemlerin (örneğin veteriner muayeneleri, tırnak kesimi, aşılamalar, yün kesimi vb.) daha kolay ve güvenli bir şekilde yapılmasını sağlar.",
     image: "meet.jpg",
   },
 ];

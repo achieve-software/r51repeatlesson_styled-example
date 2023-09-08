@@ -6,13 +6,11 @@ const Header = () => {
   return (
     <Flex>
       <div>
-        <h1>The IT Career of Your Dreams Starts Here!</h1>
+        <h1>Besi Sistemleri... En sağlam malzemelerden en uygun fiyatlı ürünler</h1>
         <p>
-          Clarusway is a leading international software Bootcamp. Join a micro
-          class online with other trainees and learn coding skills with a
-          highly-skilled instructor.
+        Açık besi naylon çatılar, hayvanların doğal ortamlarına daha yakın bir şekilde yetiştirilmelerini sağlar. Hayvanlar serbestçe dolaşabilir, güneş ışığından faydalanabilir ve doğal otlaklarda otlayabilir. Bu, hayvanların fiziksel ve zihinsel refahını artırır.
         </p>
-        <Button bg="#AF3A53">Start your New Carier</Button>
+        <Button bg="#AF3A53">Web Sitemiz için tıklayın!!!</Button>
       </div>
 
       <Image src="./images/hero.jpg" />
